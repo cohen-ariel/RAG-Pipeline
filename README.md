@@ -24,3 +24,5 @@ python RAG_pipeline.py
 ```
 
 The runtime for the procedure might be quite long. When running is finished, outputs similar to the ones in the report will be printed out.
+
+**Note:** the LLM's outputs might vary in different runs. Therefore the answers to the queries might differ from the ones presented in the report.
